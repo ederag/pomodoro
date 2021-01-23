@@ -3,3 +3,6 @@ sigtools
 pandas
 matplotlib
 configparser
+appdirs
+packaging
+ordered_set
